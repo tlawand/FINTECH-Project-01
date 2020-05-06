@@ -1,5 +1,10 @@
 # FINTECH-Project-01
 
+## Team 07
+* Corey Recai
+* Louis Zibi
+* Toufic Lawand
+
 ## Project summary
 This project aims to compare the US financial market performance (SPY at the macro level) over the period between Nov 2019 and Apr 2020 vs. Covid-19 cases (_11/19 through 4/20 vs 11/18 through 4/19_).
 
@@ -9,7 +14,13 @@ Throughout our analysis, we will be covering the following sectors:
 * retail (louis)
 
 ## Tools and datasets used
+_TBD_
 
+## Questions
+1. How has the COVID-19 pandemic affected the US economy and markets?
+2. Out of the three sectors we've chosen (technology, commercial real estate, and retail), which sector has been hit the most? And which one has benefited the most (if any)?
+3. Which (publicly listed) companies have gained the most from the COVID-19 pandemic? And which have lost the most?
+4. If we were to pick one of the top 5 performers and one of the bottom 5 performers from each sector we're examining, what is the range of their expected price in 5 years for a 90% confidence interval? (based on historical data for the past _20 years_ if available)
 
 ## Project outline
 
