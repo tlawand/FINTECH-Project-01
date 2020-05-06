@@ -40,21 +40,21 @@ Analysis of macro-economic and financial performance for the period between Q4 '
 
 #### Technology
 * Performance for the current period:
-** Top 5 performers in the sector
-** Bottom 5 performers in the sector
+  * Top 5 performers in the sector
+  * Bottom 5 performers in the sector
 * Sector performance vs same period in the previous year
 * Forecasting one of the bottom 5 and one of the top 5 performers' price 5 years from now
 
 #### Commercial real estate
 * Performance for the current period:
-** Top 5 performers in the sector
-** Bottom 5 performers in the sector
+  * Top 5 performers in the sector
+  * Bottom 5 performers in the sector
 * Sector performance vs same period in the previous year
 * Forecasting one of the bottom 5 and one of the top 5 performers' price 5 years from now
 
 #### Retail
 * Performance for the current period:
-** Top 5 performers in the sector
-** Bottom 5 performers in the sector
+  * Top 5 performers in the sector
+  * Bottom 5 performers in the sector
 * Sector performance vs same period in the previous year
 * Forecasting one of the bottom 5 and one of the top 5 performers' price 5 years from now
