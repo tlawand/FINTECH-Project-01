@@ -1,7 +1,7 @@
 # FINTECH-Project-01
 
 ## Project summary
-This project aims to compare the US financial market performance (SPY at the macro level) over the period between Nov 2019 and Apr 2020 vs. Covid-19 cases (_12/19 through 4/20 vs 12/18 through 4/19_).
+This project aims to compare the US financial market performance (SPY at the macro level) over the period between Nov 2019 and Apr 2020 vs. Covid-19 cases (_11/19 through 4/20 vs 12/18 through 4/19_).
 
 Throughout our analysis, we will be covering the following sectors:
 * technology (toufic)
