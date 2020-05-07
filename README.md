@@ -14,8 +14,9 @@ Throughout our analysis, we will be covering the following sectors:
 * retail (louis)
 
 ## Datasets used
-* Bureau of Labor Statistics API (for unemployment data)
-* 
+* Bureau of Labor Statistics (for unemployment data)- https://fred.stlouisfed.org/series/UNRATE
+* Bureau of Economic Analysis (for gdp data) - https://www.bea.gov/data/gdp/gross-domestic-product
+* S&P Dow Jones Indices (for S&P500 data) - https://us.spindices.com/indices/equity/sp-500
 
 ## Tools used
 * Python libraries:
@@ -23,7 +24,7 @@ Throughout our analysis, we will be covering the following sectors:
  * Numpy
  * PyViz libraries (for vizualization)
 * Alpaca/Quandl API's for stock data
-* HTML/CSS + JavaScript or Django for dashboard (optional)
+* HTML/CSS + JavaScript, Flask, or Django for dashboard (optional)
 
 ## Questions
 1. How has the COVID-19 pandemic affected the US economy and the financial markets?
