@@ -14,8 +14,9 @@ Throughout our analysis, we will be covering the following sectors:
 * retail (louis)
 
 ## Datasets used
-* Bureau of Labor Statistics API (for unemployment data)
-* 
+* Bureau of Labor Statistics (for unemployment data)- https://fred.stlouisfed.org/series/UNRATE
+* Bureau of Economic Analysis (for gdp data) - https://www.bea.gov/data/gdp/gross-domestic-product
+* S&P Dow Jones Indices (for S&P500 data) - https://us.spindices.com/indices/equity/sp-500
 
 ## Tools used
 * Python libraries:
