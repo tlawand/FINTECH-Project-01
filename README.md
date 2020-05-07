@@ -23,7 +23,7 @@ Throughout our analysis, we will be covering the following sectors:
  * Numpy
  * PyViz libraries (for vizualization)
 * Alpaca/Quandl API's for stock data
-* HTML/CSS + JavaScript or Django for dashboard (optional)
+* HTML/CSS + JavaScript, Flask, or Django for dashboard (optional)
 
 ## Questions
 1. How has the COVID-19 pandemic affected the US economy and the financial markets?
