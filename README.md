@@ -17,7 +17,7 @@ Throughout our analysis, we will be covering the following sectors:
 * Bureau of Labor Statistics (for unemployment data)- https://fred.stlouisfed.org/series/UNRATE
 * Bureau of Economic Analysis (for gdp data) - https://www.bea.gov/data/gdp/gross-domestic-product
 * S&P Dow Jones Indices (for S&P500 data) - https://us.spindices.com/indices/equity/sp-500
-* NY Times COVID-19 repo - https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv
+* NY Times COVID-19 repo - https://github.com/nytimes/covid-19-data/
 
 ## Tools used
 * Python libraries:
