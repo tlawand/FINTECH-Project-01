@@ -22,16 +22,13 @@ Throughout our analysis, we will be covering the following sectors:
 ## Tools used
 * Python libraries:
  * Pandas (for dataframes and analysis)
- * Numpy
+ * Plotly express
  * PyViz libraries (for vizualization)
-* Alpaca/Quandl API's for stock data
-* HTML/CSS + JavaScript, Flask, or Django for dashboard (optional)
+* Rapid API's for sector data
 
 ## Questions
 1. How has the COVID-19 pandemic affected the US economy and the financial markets?
 2. Out of the three sectors we've chosen (technology, commercial real estate, and retail), which sector has been hit the most? And which one has benefited the most (if any)?
-3. Which (publicly listed) companies have gained the most from the COVID-19 pandemic? And which have lost the most?
-4. If we were to pick one of the top 5 performers and one of the bottom 5 performers from each sector we're examining, what is the range of their expected price in 5 years for a 90% confidence interval? (based on historical data for the past _20 years_ if available)
 
 ## Process
 1. Collecting data
@@ -59,22 +56,33 @@ Analysis of macro-economic and financial performance for the period between Q4 '
 ### Deep dive into sectors
 
 #### Technology --> Toufic
+* Sector performance vs same period in the previous year
+
+#### Commercial real estate --> Corey
+* Sector performance vs same period in the previous year
+
+#### Retail --> Louis
+* Sector performance vs same period in the previous year
+
+
+### Postmortem
+1. Which (publicly listed) companies have gained the most from the COVID-19 pandemic? And which have lost the most?
+2. If we were to pick one of the top 5 performers and one of the bottom 5 performers from each sector we're examining, what is the range of their expected price in 5 years for a 90% confidence interval? (based on historical data for the past _20 years_ if available)
+
+#### Technology --> Toufic
 * Performance for the current period:
   * Top 5 performers in the sector
   * Bottom 5 performers in the sector
-* Sector performance vs same period in the previous year
 * Forecasting one of the bottom 5 and one of the top 5 performers' price 5 years from now
 
 #### Commercial real estate --> Corey
 * Performance for the current period:
   * Top 5 performers in the sector
   * Bottom 5 performers in the sector
-* Sector performance vs same period in the previous year
 * Forecasting one of the bottom 5 and one of the top 5 performers' price 5 years from now
 
 #### Retail --> Louis
 * Performance for the current period:
   * Top 5 performers in the sector
   * Bottom 5 performers in the sector
-* Sector performance vs same period in the previous year
 * Forecasting one of the bottom 5 and one of the top 5 performers' price 5 years from now
